@@ -4,9 +4,20 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pylint = "*"
+cookiecutter = "*"
+bump2version = "*"
+watchdog = "*"
+flake8 = "*"
+tox = "*"
+coverage = "*"
+twine = "*"
+click = "*"
+pytest = "*"
+pytest-runner = "*"
+Sphinx = "*"
 
 [packages]
-cookiecutter = "*"
 
 [requires]
 python_version = "3.8"
