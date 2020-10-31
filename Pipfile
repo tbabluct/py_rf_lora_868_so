@@ -16,6 +16,11 @@ click = "*"
 pytest = "*"
 pytest-runner = "*"
 Sphinx = "*"
+pytest-sugar = "*"
+pytest-pep8 = "*"
+pytest-cov = "*"
+pytest-timeout = "*"
+
 
 [packages]
 
