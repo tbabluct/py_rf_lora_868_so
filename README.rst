@@ -28,7 +28,8 @@ Usage
 -----
 Send Message
 
-.. code-block:: Python
+.. code-block:: python
+
     from py_rf_lora_868_so import rf_lora
     import RPi.GPIO as GPIO
     import spidev
@@ -51,7 +52,8 @@ Send Message
 
 Receive Message
 
-.. code-block:: Python
+.. code-block:: python
+
     from py_rf_lora_868_so import rf_lora
     import RPi.GPIO as GPIO
     import spidev
