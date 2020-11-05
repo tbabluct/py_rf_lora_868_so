@@ -27,6 +27,7 @@ Python API for the RF-LORA-
 Usage
 -----
 Send Message
+
 .. code-block:: Python
     from py_rf_lora_868_so import rf_lora
     import RPi.GPIO as GPIO
@@ -49,6 +50,7 @@ Send Message
     lora_module.send(binary_payload=[0x01, 0x02, 0x03])
 
 Receive Message
+
 .. code-block:: Python
     from py_rf_lora_868_so import rf_lora
     import RPi.GPIO as GPIO
