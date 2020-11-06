@@ -1,3 +1,10 @@
+    """
+    The dictionary `addr_lookup` maps the register name used in the Semtech SX1272 to
+    the register address.
+    Semtech SX1272 datasheet: https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1272
+    
+    """
+
 addr_lookup = {
     "RegFifo" : 0x00,
     "RegOpMode" : 0x01,

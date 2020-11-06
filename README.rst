@@ -70,7 +70,7 @@ Receive Message
                     rx_sw = 11,
                     tx_sw = 13,
                     dio0 = 15,
-                    reset = 29)
+                    reset_pin = 29)
     
     def rx_callback_func(message):
         print(message)
