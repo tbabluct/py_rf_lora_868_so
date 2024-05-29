@@ -56,7 +56,7 @@ python-dateutil==2.8.1
 python-slugify==4.0.1
 pytz==2020.1
 readme-renderer==28.0
-requests==2.24.0
+requests==2.32.2
 requests-toolbelt==0.9.1
 rfc3986==1.4.0
 SecretStorage==3.1.2
